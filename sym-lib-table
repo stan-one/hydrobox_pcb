@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "ESP32-C3-WROOM-02")(type "Legacy")(uri "/home/user/Documentos/PCB/ul_ESP32-C3-WROOM-02-N4/KiCAD/2022-02-12_19-55-40/2022-02-12_19-55-40.lib")(options "")(descr ""))
+  (lib (name "NCP3065DR2G")(type "KiCad")(uri "/home/user/Documentos/PCB/ul_NCP3065DR2G/KiCAD/2021-08-14_09-42-07/2021-08-14_09-42-07.kicad_sym")(options "")(descr ""))
+  (lib (name "LM393ADT")(type "KiCad")(uri "/home/user/Documentos/PCB/ul_LM393ADT/KiCAD/2021-04-03_17-01-55/2021-04-03_17-01-55.kicad_sym")(options "")(descr ""))
+  (lib (name "DT1042-04SO-7")(type "Legacy")(uri "/home/user/Documentos/PCB/DT1042-04SO-7/DT1042-04SO-7.lib")(options "")(descr ""))
+  (lib (name "LD1117DT33TR")(type "KiCad")(uri "/home/user/Documentos/PCB/ul_LD1117DT33TR/KiCAD/2022-07-03_08-51-32/2022-07-03_08-51-32.kicad_sym")(options "")(descr ""))
+  (lib (name "UA78M33CKVURG3")(type "Legacy")(uri "/home/user/Documentos/PCB/ul_UA78M33CKVURG3/KiCAD/2022-07-14_11-17-19/2022-07-14_11-17-19.lib")(options "")(descr ""))
+)
